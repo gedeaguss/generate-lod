@@ -49,7 +49,7 @@ Nilai Klaim      : {{Nilai Klaim}}
 ## 🚀 Cara Menjalankan Aplikasi
 
 ### Akses via Web
-Aplikasi dapat diakses langsung melalui Streamlit Cloud tanpa instalasi apapun.
+Aplikasi dapat diakses langsung melalui Streamlit Cloud atau [Google Colaboratory](https://colab.research.google.com/drive/1BGmzq6j0xGnsubjcJAQOQU7d4q8RZPHt?usp=sharing)
 
 ### Menjalankan Secara Lokal
 Jika ingin menjalankan di komputer sendiri:
